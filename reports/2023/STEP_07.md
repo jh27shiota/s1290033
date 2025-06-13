@@ -1,0 +1,20 @@
+# STEP 07
+## Selector Circuit
+Selector circuit is the circuit that select an input from multi inputs. When selection signal "S" is 0, input "A" is output to "Y". When "S" is 1, input "B" is output to "Y".  
+![selector](./images/step7/selector.png)
+## Assignment 07-1 (2-input selector circuit)
+![code1](./images/step7/code1.png)  
+![utilization1](./images/step7/utilization1.png)  
+![power1](./images/step7/power1.png)
+## Assignment 07-2 (2-input selector circuit)
+![code2](./images/step7/code2.png)  
+![utilization2](./images/step7/utilization2.png)  
+![power2](./images/step7/power2.png)
+## Assignment 07-3 (3-bit selector circuit)
+![code3](./images/step7/code3.png)  
+![utilization3](./images/step7/utilization3.png)  
+![power3](./images/step7/power3.png)
+## Assignment 07-4 (4-input selector circuit)
+![code4](./images/step7/code4.png)  
+![utilization4](./images/step7/utilization4.png)  
+![power4](./images/step7/power4.png)
